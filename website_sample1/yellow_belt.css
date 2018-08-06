@@ -1,0 +1,219 @@
+body {
+  background-color: #0e0e0e;
+}
+
+#wrapper {
+  border-left-style: solid;
+  border-left-width: 4px;
+  border-left-color: #131313;
+  border-right-width: 4px;
+  border-right-color: #131313;
+  border-right-style: solid;
+  width: 976px;
+  height: 1186px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #1a1a1a;
+}
+
+.logo {
+  margin-bottom: 17px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.contact_num {
+  margin-top: 30px;
+  margin-left: 525px;
+  vertical-align: top;
+  display: inline-block;
+  color: #cfcfc8;
+}
+
+
+/* top links back_ground*/
+
+.links {
+  background: linear-gradient(#525252, #424242, #282828);
+  width: auto;
+  height: 50px;
+}
+
+
+/* unordered list is inside a div*/
+
+ul {
+  background: linear-gradient(#525252, #424242, #282828);
+  height: 49px;
+  margin-bottom: 0px;
+  color: #9ea3a4;
+  padding-left: 20px;
+  width: 900px;
+  border-right-style: ridge;
+  border-right-width: 1px;
+  border-color: grey;
+}
+
+ul li {
+  border-right-width: 1px;
+  border-right-style: ridge;
+  border-right-color: grey;
+  padding: 7px;
+  display: inline-block;
+  margin-left: 6px;
+  width: 80px;
+  margin-top: 8px;
+}
+
+ul li::after {
+  margin-left: 3px;
+  content: "\00BB\0020";
+}
+
+ul li:first-child {
+  list-style-type: none;
+  color: white;
+  width: 57px;
+}
+
+ul li:nth-child(2) {
+  width: 46px;
+}
+
+ul li:last-child {
+  border-right-style: none;
+}
+
+
+/*main img border bottom*/
+
+.main_pic {
+  border-bottom-style: solid;
+  border-bottom-color: #3b3b3b;
+}
+
+
+/*CONTENT*/
+
+#box {
+  padding: 9px;
+  vertical-align: top;
+  border: 2px;
+  border-color: red;
+  display: inline-block;
+  background-color: #1a1a1a;
+  width: 168px;
+  height: 120px;
+}
+
+.content {
+  width: 50px;
+  height: 50px;
+}
+
+#box h3 {
+  margin-bottom: 5px;
+  margin-top: 0px;
+  vertical-align: middle;
+  display: inline-block;
+  color: #f07f3f;
+}
+
+#box p {
+  margin-top: 0px;
+  color: #c1bfbf;
+}
+
+
+/*Buy now section*/
+
+section {
+  width: auto;
+  height: 150px;
+  background-color: black;
+}
+
+section h2 {
+  display: inline-block;
+  margin-top: 25px;
+  margin-left: 35px;
+  margin-bottom: 5px;
+  color: white;
+}
+
+section p {
+  margin-top: 2px;
+  margin-left: 35px;
+  display: inline-block;
+  width: 651px;
+  color: white;
+  font-size: 14px;
+}
+
+.button {
+  vertical-align: super;
+  text-align: center;
+  padding: 13px;
+  border-radius: 5px;
+  font-family: arial, sans-serif;
+  width: 100px;
+  height: 15px;
+  background: linear-gradient(#f29862, #f08b4f, #ef8142);
+}
+
+
+/*portfolio section*/
+
+.portfolio {
+  margin-left: 20px;
+  color: #f2f2f2;
+  width: 750px;
+  display: inline-block;
+}
+
+.view {
+  margin-left: 50px;
+  display: inline-block;
+  color: #ef7e3f;
+}
+
+.portfolio_imgs {
+  margin-left: 19px;
+  border-style: solid;
+  color: #363636;
+}
+
+
+/* portfolio boxes and info*/
+
+#box2 {
+  vertical-align: top;
+  display: inline-block;
+  width: 217px;
+  height: 141px;
+  background-color: #1a1a1a;
+  color: white;
+  margin-left: 19px;
+}
+
+#box2 h4 {
+  margin-top: 7px;
+  margin-bottom: 0px;
+  color: #f07f3f;
+}
+
+#box2 p {
+  font-size: 15px;
+  color: #c1c7c5;
+  margin-top: 5px;
+}
+
+
+/*back to the top */
+
+h6 {
+  margin-top: 0px;
+  color: #767473;
+  text-align: right;
+  margin-right: 20px;
+}

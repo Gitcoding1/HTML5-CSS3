@@ -1,0 +1,139 @@
+
+#container{
+  margin: 0px auto;
+width: 1140px;
+height: 1175px;
+background: #f8f8f8;
+}
+
+/* headers*/
+h1{
+  margin-left: 20px;
+  display: inline-block;
+}
+
+h2{
+  display: inline-block;
+  margin-left: 600px;
+}
+/* purple background all content goes inside*/
+#wrapper{
+  background: radial-gradient(circle,#6f5964,#6f5964, #1e0e12);
+     width: 1140px;
+     height: 1020px;
+
+}
+
+.jayne_pic{
+  margin-left: 30px;
+  margin-top: 25px;
+  width: 500px;
+  height: 300px;
+  border-style: solid ; color: #c0c0c0;
+  border-width: 5px;
+}
+
+#aboutme{ background: linear-gradient(to right,#fdfcfd,#dbccda);
+  vertical-align:top;
+  display: inline-block;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 25px;
+  width: 540px;
+  height: 310px;
+}
+#aboutme p{
+  width: 500px;
+  margin-left: 5px;
+}
+
+h3{background: linear-gradient(#aeadb2, #8a8895,#b1b1b5);
+    color: #ffffff;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-left: 4px;
+    height: 34px;
+}
+
+.continue{
+  text-decoration: underline;
+}
+/*--LA MODE--family contacts--five Eleven*/
+#box1{
+      vertical-align: top;
+      display: inline-block;
+      background: linear-gradient(#fefdfe, #eee7ed,#ded0dd);
+      margin-left: 30px;
+      margin-top: 25px;
+      margin-bottom: 0px;
+      padding-top: 0px;
+      padding-left: 0px;
+      height: 635px;
+      width: 340px;
+}
+.pic{
+  width: 340px;
+  height: 200px;
+}
+#box1 p{
+  margin-left: 5px;
+  width: 328px;
+  height: 144px;
+}
+#box1 h4{
+  background:linear-gradient(#B2B2B6, #888693);
+  height:27px;
+  margin-top:6px;
+  margin-bottom: 15px;
+  padding-top:5px;
+  padding-left:5px;
+  font-size:20px;
+  color:white;
+}
+
+.icon {
+  width: 50px;
+  height: 50px;
+  margin-left: 4px;
+}
+
+button{
+
+  margin-left: auto;
+      margin-right: auto;
+      display: block;
+      background-color: #407D61;
+      border-radius: 4px;
+      box-shadow: 3px 3px 3px #888888;
+      color: white;
+}
+.email_num{
+  margin-top: 5px;
+  text-align: center;
+  font-size: 15px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.pic2{
+  width: 30px;
+  height: 30px;
+}
+/*<div class="footer_links">*/
+.link{
+  margin-top: 0px;
+  display: inline-block;
+  text-decoration: underline;
+  font-weight: lighter;
+  vertical-align: middle;
+}
+
+.footer_links{
+  text-align: center;
+      background:#f8f8f8;
+      width: 391px;
+      height: 30px;
+      margin-left: auto;
+      margin-right: auto;
+}

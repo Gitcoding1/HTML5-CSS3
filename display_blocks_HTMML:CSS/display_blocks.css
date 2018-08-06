@@ -1,0 +1,59 @@
+#wrapper {
+  margin-left: 200px;
+  width: 900px;
+  height: 700px;
+  background-color: #d4d1b2;
+}
+
+.github {
+  display: inline-block;
+  margin-left: 180px;
+  margin-top: 20px;
+  width: 100px;
+  height: 100px;
+}
+
+h1 {
+  margin-bottom: 0px;
+  display: inline-block;
+  text-align: center;
+}
+
+.catninja {
+  margin: 0px;
+  width: 100px;
+  height: 100px;
+  background-color: white;
+}
+
+
+/* images and the same color wrapper*/
+
+#pics {
+  display: inline-block;
+  vertical-align: text-top;
+  width: 700px;
+  height: 500px;
+  background-color: #d4d1b2;
+  margin-left: 100px;
+}
+
+.blue {
+  margin: 3px;
+  padding: 5px;
+  width: 100px;
+  height: 100px;
+  background-color: #82b4e9;
+  border: 5px;
+  border-style: solid;
+}
+
+.red {
+  margin: 3px;
+  padding: 5px;
+  width: 100px;
+  height: 100px;
+  background-color: #f46772;
+  border: 5px;
+  border-style: solid;
+}

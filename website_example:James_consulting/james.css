@@ -1,0 +1,209 @@
+body {
+  background-color: #062134;
+}
+
+
+/* James consulting heading and navigation links*/
+
+#jamesconsulting {
+  margin-left: 25px;
+  margin-top: 0px;
+}
+
+h1, h2, .home, #jamesconsulting {
+  display: inline-block;
+}
+
+h1 {
+  color: white;
+  font-weight: lighter;
+  color: white
+}
+
+.consulting {
+  color: #1b99e8;
+}
+
+.home {
+  margin-left: 100px;
+  color: #30668a;
+  text-decoration: underline;
+}
+
+.about {
+  margin-left: 100px;
+  color: white;
+
+}
+
+.services {
+  margin-left: 100px;
+  color: white;
+
+}
+
+.Projects {
+  margin-left: 100px;
+  color: white;
+
+}
+
+.clients {
+  margin-left: 100px;
+  color: white;
+
+}
+
+
+/* white background with layouts*/
+
+#wrapper {
+  width: 1200px;
+  height: 1050px;
+  background-color: white;
+}
+
+.main_img {
+  margin-left: 25px;
+  margin-top: 25px;
+  width: 1157px;
+  height: 500px;
+}
+
+
+/*bottom 3 white blue boxes*/
+/**//**/            /**//**/
+
+#box1 {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 25px;
+  margin-top: 25px;
+  width: 366px;
+  height: 220px;
+  background-color: #1468a8;
+}
+
+#box1 img {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+#box1 p{
+  width: 295;
+  font-family: , Times, serif;
+  margin-left: 20px;
+  margin-top: 0px;
+  font-weight: normal;
+  color:white;
+  font-size: smaller;
+}
+#box1 h4{
+  color: white;
+  display: inline-block;
+  vertical-align: top;
+  font-family: times,serif;
+  font-weight: normal;
+
+}
+#box1 h3{
+      padding: 6px 0px 3px 20px;
+      width: 107px;
+      margin-left: 20;
+      color: white;
+      font-family: serif;
+      font-size: 20px;
+      height: 25px;
+      background-color: #1993de;
+}
+
+/* The Worls is... Testimonial **headers***/
+.headers h2{
+  margin-left: 20px;
+font-size: 27px;
+font-family:sans-serif;
+font-weight: lighter;
+display: inline-block;
+}
+.headers .testimonials{
+  margin-left:420px;
+  font-family: sans-serif;
+}
+/*the bulding img*/
+.building{
+  margin-right: 30px;
+margin-left: 20px;
+width:365px;
+height: 180px;
+}
+/* boxes2 and box3 classes*/
+#box2{
+  vertical-align: top;
+  display: inline-block;
+  width:365px;
+  height: 180px;
+  background-color: white;
+
+}
+#box2 p{
+  font-size: 15px;
+  font-family: arial,sans-serif;
+  font-weight: lighter;
+  margin-top: 0px;
+}
+#box2 h3{
+  font-family: arial,sans-serif;
+  margin-top: 0px;
+  color:#3a739b;
+  font-weight: lighter;
+}
+
+#box3{
+      vertical-align: top;
+      display: inline-block;
+      width: 328px;
+      height: 152px;
+      font-size: 25px;
+      margin-left: 30px;
+      padding: 17px;
+      background-color: white;
+}
+#box3 h6{
+  margin-top: 18px;
+  color: #173042;
+  font-size: 15px;
+  font-weight: lighter;
+
+}
+.bluebox{
+  padding: 8px;
+  background-color: #daedff
+}
+
+
+.header{
+  margin-top: 1px;
+  background: #daedff;
+  width: 1200px;
+  height: 48px;
+  padding-top: 36px;
+  text-align: center;
+
+}
+.header ul{
+  margin-top: 0px;
+  display: inline-flex;
+  padding: 0px;
+  list-style-type: none;
+}
+.header li{
+  color: #3d759d;
+  margin-right: 35px;
+}
+.home{
+
+  color:#95c6ec;
+  text-decoration: none;
+}

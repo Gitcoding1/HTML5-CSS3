@@ -1,0 +1,240 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 980px;
+  height: auto;
+  background-color: grey;
+}
+
+header {
+  width: auto;
+  height: 117px;
+  background: linear-gradient(#e5e2dd, #e5e2dd);
+}
+
+header .logo {
+  width: 210px;
+  height: 70px;
+  margin-right: 300px;
+}
+
+header button {
+  vertical-align: top;
+  background: mediumblue;
+  color: white;
+  margin-top: 40px;
+}
+
+header input {
+  margin-top: 35px;
+  width: 300px;
+  height: 25px;
+  vertical-align: top;
+}
+
+header .search_icon {
+  margin-top: 35px;
+  vertical-align: top;
+}
+
+header ul {
+  padding: 0px;
+  margin-bottom: 0px;
+  margin-top: 6px;
+  margin-left: 511px;
+  display: inline-block;
+}
+
+header li {
+  height: 20px;
+  display: inline-block;
+  padding: 1px;
+  vertical-align: top;
+  border-right: 1px solid grey;
+}
+
+#container {
+  background: linear-gradient(#346ca7, #1f4469);
+  width: auto;
+  height: 490px;
+}
+
+#container h3 {
+  display: inline-block;
+}
+
+.user_name {
+  margin-left: 15px;
+  margin-bottom: 3px;
+}
+
+#container input {
+  margin-left: 15px;
+}
+
+.forgot_user {
+  margin-bottom: 0px;
+  margin-left: 17px;
+  margin-top: 0px;
+  font-size: 12px;
+  color: blue;
+}
+
+.password {
+  margin-left: 17px;
+  margin-top: 5px;
+  margin-bottom: 3px;
+}
+
+.forgot_pass {
+  font-size: 12px;
+  color: blue;
+  margin-left: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.button2 {
+  color: white;
+  margin-top: 15px;
+  width: 65px;
+  margin-left: 15px;
+  height: 25px;
+  border-radius: 5px;
+  background: linear-gradient(#4f4f4f, #343434, #666666);
+}
+
+.new_customer {
+  color: white;
+  border: 1px solid white;
+  margin-bottom: 0px;
+  width: 180px;
+  font-family: arial, sans-serif;
+  text-align: center;
+  margin-top: 26px;
+  padding: 10px;
+      background: linear-gradient(#164371, #245f9b,#2664a4);
+}
+
+.left_div {
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+  vertical-align: top;
+  display: inline-block;
+  width: 200px;
+  height: 301px;
+}
+
+.info_div {
+  vertical-align: top;
+  display: inline-block;
+  background-color: #d4dbe2;
+  width: 200px;
+  height: 237px;
+}
+
+.manage_account {
+  width: 200px;
+  height: 50px;
+  /*background-color: white;*/
+  background: linear-gradient(#15416e, #1f548b, #2868a9);
+}
+
+.manage_account h4 {
+  font-family: arial, sans-serif;
+  color: white;
+  text-align: center;
+  width: auto;
+  margin: 0px;
+  font-weight: 200;
+}
+
+.manage_account h5 {
+  font-family: arial, sans-serif;
+  color: white;
+  font-size: 12px;
+  margin: 0px;
+  text-align: center;
+  font-weight: 200;
+}
+
+img {
+  margin-top: 15px;
+}
+
+.icon2 {
+  vertical-align: top;
+  margin-top: 14px;
+  height: 302px;
+}
+
+.bottom_paragraph {
+  background: #d4dbe2;
+  padding: 10px;
+  height: 15px;
+  font-family: arial, sans-serif;
+  background: white;
+}
+
+.dominion {
+  color: #2d61f5;
+}
+
+.box1 {
+  margin-left: 12px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: white;
+  width: 300px;
+  height: 85px;
+}
+
+.box1 img {
+  vertical-align: top;
+  display: inline-block;
+  margin: 0px;
+}
+
+.box1 h6 {
+  font-size: 15px;
+  width: 157px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0px;
+}
+
+.box1 p {
+  color: #2c7ef7;
+  width: 165px;
+  margin: 0px;
+}
+
+.box2 {
+  display: inline-block;
+  width: 100px;
+  height: 50px;
+  background-color: white;
+}
+.bottom_links{
+  margin-top: 0px;
+  padding: 0px;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+.bottom_links li{
+  display: inline-block;
+  border-right: 1px solid black;
+  margin-left: 27px;
+}
+.bottom_links li:last-child{
+  border: none;
+}
+.bold{
+  font-weight: bold;
+}
+.green{
+  color: green;
+}
